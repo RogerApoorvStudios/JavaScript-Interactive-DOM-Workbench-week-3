@@ -1,0 +1,6 @@
+{
+  "name": "JavaScript Interactive DOM Workbench",
+  "description": "Production-grade interactive JavaScript showcase, DOM manipulation architecture, and comprehensive technical documentation with quantitative benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
